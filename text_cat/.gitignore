@@ -1,0 +1,11 @@
+fpx-spark-job-dc/
+kg-streaming-dc/
+Data/
+.csv
+.ipynb_checkpoints
+.idea
+.xlsx
+.zip
+.pptx
+.ppt
+.DS_Store

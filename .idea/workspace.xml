@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a0a8e5e-da4b-499f-882d-fcdb7441ce09" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/text_cat/Model.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_cat/preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/text_cat/BiLSTM_attention.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="3a0a8e5e-da4b-499f-882d-fcdb7441ce09" name="Default Changelist" comment="text cat" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
